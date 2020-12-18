@@ -1,3 +1,7 @@
 cd 문서이름 : 문서 안으로 이동하기
 git status : git에 추가할 것이 있는지 확인
 git add ~~~.~~ : 추가할 파일의 이름을 넣어 add하기
+-> 모든 파일 add하고자 하면 git add . 입력
+-> 초기화 git reset ~~.~~ : 다시 내리기
+git commit -m "Add 파일이름 [Add]" : git 사이트에 올리기
+git push : 최총 마무리
